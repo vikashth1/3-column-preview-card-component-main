@@ -34,7 +34,7 @@ Mobile.
 ### Links
 
 - Solution URL: https://github.com/vikashth1/3-column-preview-card-component-main
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://angry-goldwasser-744d2b.netlify.app/
 
 ## My process
 
