@@ -23,11 +23,17 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
+Desktop
+<img width="1438" alt="Screenshot 2021-07-22 at 11 56 06 PM" src="https://user-images.githubusercontent.com/36493549/126691447-553e9cbd-507b-4fde-b5bd-1a4fddefd84b.png">
+
+Mobile.
+
+![Screenshot 2021-07-22 at 23-57-29 Frontend Mentor 3-column preview card component](https://user-images.githubusercontent.com/36493549/126691482-ea7269b4-fd23-4465-8926-7b5f0b5b97e5.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://github.com/vikashth1/3-column-preview-card-component-main
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -41,7 +47,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Vikash Thakur](https://github.com/vikashth1)
+- Website - Vikash Thakur https://github.com/vikashth1
 
 ## Acknowledgments
 
